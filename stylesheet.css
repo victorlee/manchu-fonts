@@ -97,4 +97,103 @@
     font-display: swap;
 }
 
+@font-face {
+    font-family: 'XM_BiaoHei';
+    src: url('Fu_XM_BiaoHei_PSMT.woff2') format('woff2'),
+        url('Fu_XM_BiaoHei_PSMT.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'XM_GuFeng';
+    src: url('Fu_XM_GuFeng_PSMT.woff2') format('woff2'),
+        url('Fu_XM_GuFeng_PSMT.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'XM_LiuYe';
+    src: url('Fu_XM_LiuYe_PSMT.woff2') format('woff2'),
+        url('Fu_XM_LiuYe_PSMT.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'XM_WenJian';
+    src: url('Fu_SM_WenJian_PSMT.woff2') format('woff2'),
+        url('Fu_SM_WenJian_PSMT.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'XM_ShuKa';
+    src: url('Fu_XM_ShuKa_PSMT.woff2') format('woff2'),
+        url('Fu_XM_ShuKa_PSMT.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'XM_WenQin';
+    src: url('Fu_XM_WenQin_PSMT.woff2') format('woff2'),
+        url('Fu_XM_WenQin_PSMT.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'XM_YaBai';
+    src: url('Fu_XM_YaBai_PSMT.woff2') format('woff2'),
+        url('Fu_XM_YaBai_PSMT.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'XM_XingShu';
+    src: url('Fu_XM_XingShu_PSMT.woff2') format('woff2'),
+        url('Fu_XM_XingShu_PSMT.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'XM_ZhengBai';
+    src: url('Fu_XM_ZhengBai_PSMT.woff2') format('woff2'),
+        url('Fu_XM_ZhengBai_PSMT.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'XM_ZhengHei';
+    src: url('Fu_XM_ZhengHei_PSMT.woff2') format('woff2'),
+        url('Fu_XM_ZhengHei_PSMT.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'XM_YingBai';
+    src: url('Fu_XM_YingBi_PSMT.woff2') format('woff2'),
+        url('Fu_XM_YingBi_PSMT.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
 
