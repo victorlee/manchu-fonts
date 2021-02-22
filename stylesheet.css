@@ -201,4 +201,12 @@ src: url('monbaiti.ttf') format('truetype');
     font-display: swap;
 }
 
+@font-face {
+font-family: 'Manchu';
+src: url('Manchu.ttf') format('truetype');
+}
 
+@font-face {
+font-family: 'Manchu Bold';
+src: url('ManchuBold.ttf') format('truetype');
+}
